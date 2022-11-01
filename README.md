@@ -1,4 +1,7 @@
-## Hi, I'm Luan.
+## Technology enthusiast, student and software developer. 
+
+## Currently performing the front-end role using React Js with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
+
 <div align="center">
   <a href="https://github.com/LuanBorher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanBorher&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
