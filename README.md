@@ -1,12 +1,13 @@
 <br>
   <img align="right" height="180" alt="profile" src="https://pbs.twimg.com/media/EbCpvBQXgAIhf8k.jpg">
 </br>
+
 ### Hi, I'm Luan Viana, technology enthusiast, student and software developer 🤓
 
 
 Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool.
 
-- 💻 React, HTML, CSS, Typescript, Styled Components
+- 💻 React, Javascript, Typescript, Styled Components, HTML, CSS, SCSS
 - 🔧 Clean Code, Clean Architecture
 
 <br> 
