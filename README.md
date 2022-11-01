@@ -1,11 +1,16 @@
 <br>
-  <img align="right" height="180" alt="profile" src="https://thypix.com/wp-content/uploads/2021/05/sad-pictures-for-drawing-7-700x700.jpg">
+  <img align="right" height="180" alt="profile" src="https://pbs.twimg.com/media/EbCpvBQXgAIhf8k.jpg">
 </br>
 
-### Hi, I'm Luan Borher, technology enthusiast, student and software developer 🤓
+### Hi, I'm Luan Viana, technology enthusiast, student and software developer 🤓
 
 
-Currently performing the front-end role using React Js with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
+Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
+
+- 💻 React, HTML, CSS, Typescript, Styled Components
+- 🔧 Clean Code, Clean Architecture
+- 📖 React Query, Yup, React Hooks Form 
+
 <br> 
    <body>
       <a href="https://www.instagram.com/luanborher/">
@@ -48,9 +53,4 @@ ________________________________________________________________________________
 <div align="center">
   <a href = "mailto:luanborher@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-viana-656215186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-### Commits:
-  
-  ![Snake animation](https://github.com/luanborher/luanborher/blob/output/github-contribution-grid-snake.svg)
 </div>
