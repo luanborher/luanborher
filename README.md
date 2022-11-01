@@ -5,11 +5,9 @@
 ### Hi, I'm Luan Viana, technology enthusiast, student and software developer 🤓
 
 
-Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool.
+🚀 Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture.
 
 - 💻 React, Javascript, Typescript, Styled Components, HTML, CSS, SCSS
-- 🔧 Clean Code, Clean Architecture
-
 <br> 
    <body>
       <a href="https://www.instagram.com/luanborher/">
