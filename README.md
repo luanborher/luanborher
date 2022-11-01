@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/LuanBorher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanBorher&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBorher&layout=compact&langs_count=7&theme=jolly"/>
-  <img height="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanBorher&theme=jolly&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanBorher&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBorher&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanBorher&theme=gotham"/>  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuanBorher&theme=gotham"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
