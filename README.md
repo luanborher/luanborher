@@ -1,11 +1,11 @@
 <br>
-  <img align="right" height="180" alt="profile" src="[https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif](https://thypix.com/wp-content/uploads/2021/05/sad-pictures-for-drawing-7-700x700.jpg)">
+  <img align="right" height="180" alt="profile" src="https://thypix.com/wp-content/uploads/2021/05/sad-pictures-for-drawing-7-700x700.jpg">
 </br>
 
-## Hi, I'm Luan Borher, technology enthusiast, student and software developer 🤓
+### Hi, I'm Luan Borher, technology enthusiast, student and software developer 🤓
 
-## Currently performing the front-end role using React Js with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
 
+Currently performing the front-end role using React Js with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
 <br> 
    <body>
       <a href="https://www.instagram.com/luanborher/">
@@ -19,8 +19,8 @@
          <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
          width=30" height="30">
       </a>
-   </body>  
-  </br>
+  </body>  
+</br>
   
 __________________________________________________________________________________________________
 
