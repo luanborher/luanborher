@@ -1,6 +1,28 @@
-## Hi, I'm Luan Borher, technology enthusiast, student and software developer. 
+<br>
+  <img align="right" height="180" alt="profile" src="[https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif](https://thypix.com/wp-content/uploads/2021/05/sad-pictures-for-drawing-7-700x700.jpg)">
+</br>
+
+## Hi, I'm Luan Borher, technology enthusiast, student and software developer 🤓
 
 ## Currently performing the front-end role using React Js with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
+
+<br> 
+   <body>
+      <a href="https://www.instagram.com/luanborher/">
+         <img align="right" alt="Instagram" src="https://cdn.discordapp.com/attachments/836712599180935248/983117007748747354/unknown.png"
+         width=30" height="30">
+      </a>
+   </body>  
+  
+   <body>
+      <a href="https://www.linkedin.com/in/luan-viana-656215186/">
+         <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
+         width=30" height="30">
+      </a>
+   </body>  
+  </br>
+  
+__________________________________________________________________________________________________
 
 <div align="center">
   <a href="https://github.com/LuanBorher">
@@ -18,6 +40,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+__________________________________________________________________________________________________
 
 ## 
   
@@ -26,3 +50,7 @@
   <a href="https://www.linkedin.com/in/luan-viana-656215186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### Commits:
+  
+  ![Snake animation](https://github.com/luanborher/luanborher/blob/output/github-contribution-grid-snake.svg)
+</div>
