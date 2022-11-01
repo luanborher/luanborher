@@ -1,15 +1,13 @@
 <br>
   <img align="right" height="180" alt="profile" src="https://pbs.twimg.com/media/EbCpvBQXgAIhf8k.jpg">
 </br>
-
 ### Hi, I'm Luan Viana, technology enthusiast, student and software developer 🤓
 
 
-Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture. Main technologies used Styled Components, React Query, React Hooks Form with validations Yup.
+Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool.
 
 - 💻 React, HTML, CSS, Typescript, Styled Components
 - 🔧 Clean Code, Clean Architecture
-- 📖 React Query, Yup, React Hooks Form 
 
 <br> 
    <body>
