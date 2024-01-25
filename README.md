@@ -7,7 +7,7 @@
 
 🚀 Currently performing the front-end role using React JS with Typescript as the main development and maintenance tool, always focusing on Clean Code and Clean Architecture.
 
-- 💻 React, Javascript, Typescript, Styled Components, HTML, CSS, SCSS
+- 💻 React, Next, Javascript, Typescript, Styled Components, HTML5, CSS3
 <br> 
    <body>
       <a href="https://www.instagram.com/luanborher/">
@@ -32,14 +32,12 @@ ________________________________________________________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanBorher&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
 __________________________________________________________________________________________________
