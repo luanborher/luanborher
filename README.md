@@ -1,5 +1,4 @@
 <br>
-<img align="right" height="180" alt="profile" src="https://pbs.twimg.com/media/EbCpvBQXgAIhf8k.jpg">
 </br>
 
 ## 👋 Hi, I'm Luan Viana  
@@ -38,6 +37,7 @@ React · Next.js · TypeScript · JavaScript · Styled Components · HTML5 · CS
 ---
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuanBorher&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 
 ---
