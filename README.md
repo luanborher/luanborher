@@ -1,5 +1,4 @@
-<br>
-</br>
+<br />
 
 ## 👋 Hi, I'm Luan Viana  
 ### Front-end Developer | React & Next.js | UI Enthusiast
@@ -8,6 +7,8 @@
 
 **💻 Tech Stack:**  
 React · Next.js · TypeScript · JavaScript · Styled Components · HTML5 · CSS3
+
+<br />
 
 ---
 
